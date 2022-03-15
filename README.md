@@ -1,15 +1,18 @@
 
-  <img align="right" alt="benjamim-pic" height="150" style="border-radius:50px;" 
-       src="https://instagram.fnat17-1.fna.fbcdn.net/v/t51.2885-19/274938125_761148138187660_2828507054949767413_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fnat17-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=AcSXmW3Fp4MAX9znRtk&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT9jaAdXcvqMBd9Myp0aaiJWq72ENqMjh7uj0s1p3W2eRA&oe=6232726D&_nc_sid=9a90d6">
+<div   >  
+  <img style="border-radius: 65px;" height="130" align="right"
+     src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjo5LCJtb3V0aCI6MTUsImV5ZXMiOjEwLCJleWVicm93cyI6OSwiZ2xhc3NlcyI6MiwiaGFpciI6MzEsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MSwiY29sb3IiOiIjNGM0YzQ4Iiwic2hhcGUiOiJzcXVhcmUifQ==" alt="notion avatar"/> </div>
   ### Oi meu chapa!👋
 Me chamo Benjamim!
-Você está sob meu território agora, seja bem vindo, pegue o que precisa e volte quando precisar de mais.
+Você está sob meu território agora, seja bem vindo, pegue o que precisa e volte quando precisar de mais. 
 
+##
 
 - 🔭 Hoje Trabalho com front-end.
 - 🌱 Estou aprendendo Typescript.
 - 😄 Pronomes: ele/dele.
-
+  
+##
 <div align="center">
   <a href="https://github.com/JPBenjamim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPBenjamim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

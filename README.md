@@ -1,25 +1,43 @@
 
-<div   >  
-  <img style="border-radius: 65px;" height="130" align="right"
-     src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo5LCJub3NlIjo5LCJtb3V0aCI6MTUsImV5ZXMiOjEwLCJleWVicm93cyI6OSwiZ2xhc3NlcyI6MiwiaGFpciI6MzEsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MSwiY29sb3IiOiIjNGM0YzQ4Iiwic2hhcGUiOiJzcXVhcmUifQ==" alt="notion avatar"/> </div>
-  ### Oi meu chapa!👋
+<div>
+    <img style="border-radius: 65px;" height="130" align="right" 
+         src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  > 
+  </div>
+  
+  
+ <p>
+  Oi meu chapa!👋
 Me chamo Benjamim!
 Você está sob meu território agora, seja bem vindo, pegue o que precisa e volte quando precisar de mais. 
+  </p>
 
+
+#
+# 
+
+#### - 🔭 Hoje Trabalho com front-end.
+#### - 🌱 Estou aprendendo Typescript.
+#### - 😄 Pronomes: ele/dele.
+   
+      
 ##
 
-- 🔭 Hoje Trabalho com front-end.
-- 🌱 Estou aprendendo Typescript.
-- 😄 Pronomes: ele/dele.
-  
-##
-<div align="center">
+      
+      
+<div align="center";>
   <a href="https://github.com/JPBenjamim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPBenjamim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBenjamim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+# 
+  
 <div style="display: inline_block"><br>
+   <div>
+    <img style="border-radius: 65px;" height="130" align="left" 
+         src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
+  </div>
+  
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,4 +53,6 @@ Você está sob meu território agora, seja bem vindo, pegue o que precisa e vol
   <a href="https://www.linkedin.com/in/jpbenjamim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
+  
+#
 

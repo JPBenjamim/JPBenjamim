@@ -14,7 +14,7 @@ Você está sob meu território agora, seja bem vindo, pegue o que precisa e vol
 
 #
 # 
-
+#### - 🖥️ Na minha máquina funciona.
 #### - 🔭 Hoje Trabalho com front-end.
 #### - 🌱 Estou aprendendo Typescript.
 #### - 😄 Pronomes: ele/dele.
